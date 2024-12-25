@@ -1,0 +1,8 @@
+{
+    "currentCapacity": 0,
+    "name": "Empty Airport",
+    "maxCapacity": 0,
+    "numRunways": 0,
+    "runways": [],
+    "flights": []
+}

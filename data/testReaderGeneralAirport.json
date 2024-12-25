@@ -1,0 +1,40 @@
+{
+    "name": "Test Airport",
+    "maxCapacity": 100,
+    "currentCapacity": 10,
+    "numRunways": 2,
+    "runways": [
+        {
+            "runwayID": 1,
+            "occupied": true
+        },
+        {
+            "runwayID": 2,
+            "occupied": false
+        }
+    ],
+    "flights": [
+        {
+            "flightNumber": 101,
+            "airplaneName": "Airbus A320",
+            "type": 1,
+            "isComplete": false,
+            "classification": "Commercial",
+            "status": "1",
+            "airplaneFuel": 40,
+            "origin": "San Francisco",
+            "destination": "Vancouver"
+        },
+        {
+            "flightNumber": 102,
+            "airplaneName": "Boeing 737",
+            "type": -1,
+            "isComplete": true,
+            "classification": "Commercial",
+            "status": "3",
+            "airplaneFuel": 100,
+            "origin": "Vancouver",
+            "destination": "Chicago"
+        }
+    ]
+}

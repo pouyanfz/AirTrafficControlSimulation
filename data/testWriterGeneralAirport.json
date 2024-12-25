@@ -1,0 +1,27 @@
+{
+    "currentCapacity": 10,
+    "name": "Test Airport",
+    "numRunways": 2,
+    "maxCapacity": 10,
+    "runways": [
+        {
+            "runwayID": 1,
+            "occupied": false
+        },
+        {
+            "runwayID": 2,
+            "occupied": false
+        }
+    ],
+    "flights": [{
+        "origin": "Origin A",
+        "destination": "Destination A",
+        "airplaneName": "Flight A",
+        "airplaneFuel": 53,
+        "type": 1,
+        "classification": "Commercial",
+        "flightNumber": 100,
+        "status": 1,
+        "isComplete": false
+    }]
+}
