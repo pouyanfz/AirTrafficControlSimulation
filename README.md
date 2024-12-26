@@ -121,3 +121,7 @@ Goodbye!
 
 - **Reduce Coupling Between Runway and Flight:**  
   The current design couples Runway and Flight, which limits flexibility and increases dependencies. Refactor by introducing an intermediary class or interface (e.g., RunwayManager) to manage the assignment of flights to runways.
+
+<div align="center">
+  <img src="./data/Images/UML Design Diagram.png" alt="UML Diagram">
+</div>
