@@ -1,0 +1,7 @@
+*.class
+*.DS_Store
+data/testWriterGeneralAirport.json
+data/airport.json
+.$Project Class Diagram.drawio.bkp
+Project Class Diagram.drawio
+data/airport.json
