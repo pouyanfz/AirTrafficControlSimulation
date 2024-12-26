@@ -6,7 +6,7 @@
   <img src="./data/Images/SplashImage.jpeg" alt="Logo" width="400">
 </div>
 
-The **Air Traffic Control Simulation** project aims to design an application that simulates the functionalities of an air traffic control system. This application will manage aircraft movements, ensure safe landings and takeoffs, and provide real-time updates on flight statuses. Users of this application will primarily be students and educators in the fields of computer science and transportation engineering, who seek to understand the complexities of air traffic management through a hands-on simulation experience.
+The **Air Traffic Control Simulation** project aims to design an application that simulates the functionalities of an air traffic control system. This application will manage aircraft movements, ensure safe landings and takeoffs, and provide real-time updates on flight statuses.
 
 This project is of particular interest to me due to my background in civil engineering and my fascination with transportation systems. I believe that developing this simulation will not only enhance my programming skills but also allow me to explore the intersection of technology and transportation in a meaningful way.
 
@@ -47,7 +47,7 @@ This project is of particular interest to me due to my background in civil engin
 
 
 <div align="center">
-  <img src="./data/Images/Menu.png" alt="Sample Menu" width="400">
+  <img src="./data/Images/Menu.png" alt="Sample Menu" width="600">
 </div>
 
 
