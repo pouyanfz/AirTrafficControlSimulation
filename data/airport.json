@@ -1,5 +1,5 @@
 {
-    "currentCapacity": 0,
+    "currentCapacity": 2,
     "name": "YVR",
     "numRunways": 2,
     "maxCapacity": 2,
@@ -15,39 +15,6 @@
     ],
     "flights": [
         {
-            "origin": "Chicago",
-            "destination": "Vancouver",
-            "airplaneName": "Learjet 75",
-            "airplaneFuel": 0,
-            "type": 1,
-            "classification": "Private",
-            "flightNumber": 106,
-            "status": 5,
-            "isComplete": true
-        },
-        {
-            "origin": "Vancouver",
-            "destination": "London",
-            "airplaneName": "Boeing 787",
-            "airplaneFuel": 100,
-            "type": -1,
-            "classification": "Commercial",
-            "flightNumber": 105,
-            "status": 1,
-            "isComplete": true
-        },
-        {
-            "origin": "Vancouver",
-            "destination": "New York",
-            "airplaneName": "Airbus A350",
-            "airplaneFuel": 100,
-            "type": -1,
-            "classification": "Commercial",
-            "flightNumber": 104,
-            "status": 1,
-            "isComplete": true
-        },
-        {
             "origin": "Seattle",
             "destination": "Vancouver",
             "airplaneName": "Boeing 737",
@@ -55,8 +22,8 @@
             "type": 1,
             "classification": "Commercial",
             "flightNumber": 100,
-            "status": 3,
-            "isComplete": true
+            "status": 1,
+            "isComplete": false
         },
         {
             "origin": "Vancouver",
@@ -66,30 +33,63 @@
             "type": -1,
             "classification": "Commercial",
             "flightNumber": 101,
-            "status": 1,
-            "isComplete": true
+            "status": 3,
+            "isComplete": false
         },
         {
             "origin": "Calgary",
             "destination": "Vancouver",
             "airplaneName": "Cessna 172",
-            "airplaneFuel": 12,
+            "airplaneFuel": 32,
             "type": 1,
             "classification": "Private",
             "flightNumber": 102,
-            "status": 3,
-            "isComplete": true
+            "status": 1,
+            "isComplete": false
         },
         {
             "origin": "Los Angeles",
             "destination": "Vancouver",
             "airplaneName": "Boeing 777",
-            "airplaneFuel": 80,
+            "airplaneFuel": 100,
             "type": 1,
             "classification": "Cargo",
             "flightNumber": 103,
+            "status": 1,
+            "isComplete": false
+        },
+        {
+            "origin": "Vancouver",
+            "destination": "New York",
+            "airplaneName": "Airbus A350",
+            "airplaneFuel": 77,
+            "type": -1,
+            "classification": "Commercial",
+            "flightNumber": 104,
             "status": 3,
-            "isComplete": true
+            "isComplete": false
+        },
+        {
+            "origin": "Vancouver",
+            "destination": "London",
+            "airplaneName": "Boeing 787",
+            "airplaneFuel": 58,
+            "type": -1,
+            "classification": "Commercial",
+            "flightNumber": 105,
+            "status": 3,
+            "isComplete": false
+        },
+        {
+            "origin": "Chicago",
+            "destination": "Vancouver",
+            "airplaneName": "Learjet 75",
+            "airplaneFuel": 100,
+            "type": 1,
+            "classification": "Private",
+            "flightNumber": 106,
+            "status": 1,
+            "isComplete": false
         }
     ]
 }

@@ -15,6 +15,10 @@ This project is of particular interest to me due to my background in civil engin
 - **User-Friendly Interface:** Designed with usability in mind for a smooth user experience.
 - **Educational Tool:** A practical resource for learning about air traffic control processes.
 
+<div align="center">
+  <img src="./data/Images/Menu.png" alt="Sample Menu" width="600">
+</div>
+
 ## User Stories
 - As a user I want to be able to make a new airport and add runways to it.
 
@@ -45,10 +49,10 @@ This project is of particular interest to me due to my background in civil engin
 
 - You can reload the state of my application by either clicking the "Load Airport" button or answering the prompt upon opening the app.
 
-
 <div align="center">
-  <img src="./data/Images/Menu.png" alt="Sample Menu" width="600">
+  <img src="./data/Images/Sample gif.gif" alt="gif">
 </div>
+
 
 
 
